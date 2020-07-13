@@ -1,6 +1,8 @@
 # Data Findings (Apple App Store Games)
 ### By Vikneshwarar
 
+Here is the Link to my Medium Blog on this Analysis:
+https://medium.com/@vickywarar/are-you-a-mobile-gamer-9b5ec505c655
 
 ## INSTALLATION:
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*
