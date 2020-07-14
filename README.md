@@ -33,5 +33,5 @@ The Data set contains the data of about 17007 strategy games entries for the yea
 - As Expected Free Games got most reviews and ratings than the Paid Games.
 - Clash of Clans is the Highest Rated Game in the App Store.
 
-## Licensing, Authors, Acknowledgements
+#### Licensing, Authors, Acknowledgements:
 Credit is given to the Kaggle for the Dataset. For license purpose please see to its website.
