@@ -21,10 +21,10 @@ The Data set contains the data of about 17007 strategy games entries for the yea
 - gathering data from site: https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games
 - imported using pandas functions
 
-## Cleaning Data:
+## CLEANING DATA:
 - Several quality and tidiness issues which were their in the datasets were dealed properly.
 
-## Exploration and Explanatory Analysis:
+## EXPLORATION AND EXPLANATORY ANALYSIS:
   Various Plots were used to analyse the data sets and based on the exploratory analysis explanatory analysis were then made
 
 ## SUMMARY OF THE FINDINGS:
